@@ -1,3 +1,6 @@
+# How to customize segment contol height in xamarin.forms
+This section explains how to customize segment control height in xamarin.forms with examples.
+
 # Getting Started with Xamarin Segmented Control (SfSegmentedControl)
 
 This section provides an overview for working with the segmented control for Xamarin.Forms. Walk through the entire process of creating a real-world application with the SfSegmentedControl.
